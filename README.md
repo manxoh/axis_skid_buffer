@@ -1,4 +1,4 @@
-# AXIS_skid_buffer
+# axis_skid_buffer
 AXI Stream Skid Buffer test bench applying back pressure on design through randomised valid & ready.
 Test bench implements a simple AXIS bus functional model.
 
